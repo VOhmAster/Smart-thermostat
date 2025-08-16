@@ -46,5 +46,13 @@ The thermostat offers advanced control and monitoring features while being fully
 - The maximum number of sensors may vary depending on network conditions and signal strength
 - Ensure all mains wiring is handled safely and complies with local regulations
 
+## Demo
+
+### Boot Sequence
+![Boot Sequence](Media/Boot sequence.gif)
+
+### Features
+![Features](Media/Features.gif)
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
