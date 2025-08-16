@@ -49,7 +49,7 @@ The thermostat offers advanced control and monitoring features while being fully
 ## Demo
 
 ### Boot Sequence
-![Boot Sequence](Media/Boot sequence.gif)
+![Boot Sequence](Media/Boot.gif)
 
 ### Features
 ![Features](Media/Features.gif)
