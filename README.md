@@ -23,8 +23,12 @@ The thermostat offers advanced control and monitoring features while being fully
 - Relay module or solid-state relay for heating control
 - Power supply (e.g., 220V AC for mains input, regulated 5V for ESP32)
 - Encoder
+  
+### Required Sensor Modules
+- ESP01 (2866) module (one per sensor)
+- BME280 sensor
 
-## Pin Assignment (Example)
+## Pin Assignment for Main Unit (ESP32 Thermostat) - Example
 
 | Function                   | Pin |
 |----------------------------|-----|
@@ -35,6 +39,12 @@ The thermostat offers advanced control and monitoring features while being fully
 | OLED SDA                   | D21 |
 | OLED SCL                   | D22 |
 
+## Pin Assignment for Sensor Modules (ESP01 + BME280) - Example
+
+| Function                   | Pin |
+|----------------------------|-----|
+| BME280 SDA                 | D0  |
+| BME280 SCL                 | D2  |
 
 ## Usage
 - On startup, the device scans the network for sensors and maps them automatically
