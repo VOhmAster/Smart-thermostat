@@ -64,7 +64,7 @@ The thermostat offers advanced control and monitoring features while being fully
 ### Features
 ![Features](Media/Features.gif)
 
-[Support me on Ko-fi](https://ko-fi.com/s/36cf1f1b35)
+If you enjoy what I do, you can support me with a coffee: [Ko-fi](https://ko-fi.com/s/36cf1f1b35)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
