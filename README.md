@@ -64,7 +64,7 @@ The thermostat offers advanced control and monitoring features while being fully
 ### Features
 ![Features](Media/Features.gif)
 
-I always strive to deliver projects that are high-quality, easy to use, and simple to build — with true plug & play functionality whenever possible. Everything I make is free for anyone to access and enjoy. If you’d like to support my work, any contribution will go straight into new tools, parts, and future developments: Ko-fi(https://ko-fi.com/s/36cf1f1b35)
+I always strive to deliver projects that are high-quality, easy to use, and simple to build — with true plug & play functionality whenever possible. Everything I make is free for anyone to access and enjoy. If you’d like to support my work, any contribution will go straight into new tools, parts, and future developments: [Ko-fi](https://ko-fi.com/vohmaster)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
