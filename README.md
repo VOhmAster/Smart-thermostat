@@ -25,7 +25,7 @@ The thermostat offers advanced control and monitoring features while being fully
 - Encoder
   
 ### Required Sensor Modules
-- ESP01 (2866) module (one per sensor)
+- ESP01 (8266) module (one per sensor)
 - BME280 sensor
 
 ## Pin Assignment for Main Unit (ESP32 Thermostat) - Example
